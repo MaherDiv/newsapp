@@ -16,7 +16,7 @@ button {
   min-height: 100vh;
   width: 100%;
  
-  background-image: linear-gradient(135deg, #485461 0%, #28313b 74%);
+  background-image: linear-gradient(135deg, #0e4683 0%, #28313b 74%);
   overflow-x: hidden;
   transform-style: preserve-3d;
   font-family: 'Noto Kufi Arabic', sans-serif;
